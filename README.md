@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ChrappaCode
-- 👀 I’m interested in banging heads in csgo
+- 👀 I’m interested in being interested in
 - 🌱 I’m currently learning OOP
 - 💞️ I’m looking to collaborate on umint cviko
 - 📫 How to reach me "dc" #0485
