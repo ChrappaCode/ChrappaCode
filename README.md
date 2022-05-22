@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ChrappaCode
-- 👀 I’m interested in being interested in
-- 🌱 I’m currently learning OOP
-- 💞️ I’m looking to collaborate on umint cviko
+- 👀 I’m interested in webpages
+- 🌱 I’m currently learning OOP and CSS
+- 💞️ I’m looking to collaborate on League games
 - 📫 How to reach me "dc" #0485
 
 <!---
