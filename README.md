@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChrappaCode
 - 👀 I’m interested in webpages
-- 🌱 I’m currently learning OOP and CSS
+- 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on League games
 - 📫 How to reach me "dc" #0485
 
