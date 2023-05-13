@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ChrappaCode
-- 👀 I’m interested in webpages
+- 👀 I’m interested in midlane
 - 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on League games
 - 📫 How to reach me "dc" #0485
